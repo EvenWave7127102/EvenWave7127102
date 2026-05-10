@@ -1,8 +1,8 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cactus+Classical+Serif&pause=1000&width=435&lines=%E6%9C%88%E8%90%BD%E7%83%8F%E5%95%BC%E9%9C%9C%E6%BB%BF%E5%A4%A9%EF%BC%8C%E6%B1%9F%E6%A5%93%E6%BC%81%E7%81%AB%E5%B0%8D%E6%84%81%E7%9C%A0%E3%80%82+;%E5%A7%91%E8%98%87%E5%9F%8E%E5%A4%96%E5%AF%92%E5%B1%B1%E5%AF%BA%EF%BC%8C%E5%A4%9C%E5%8D%8A%E9%90%98%E8%81%B2%E5%88%B0%E5%AE%A2%E8%88%B9%E3%80%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cactus+Classical+Serif&size=25&pause=1000&width=435&lines=%E6%9C%88%E8%90%BD%E7%83%8F%E5%95%BC%E9%9C%9C%E6%BB%BF%E5%A4%A9%EF%BC%8C%E6%B1%9F%E6%A5%93%E6%BC%81%E7%81%AB%E5%B0%8D%E6%84%81%E7%9C%A0%E3%80%82+;%E5%A7%91%E8%98%87%E5%9F%8E%E5%A4%96%E5%AF%92%E5%B1%B1%E5%AF%BA%EF%BC%8C%E5%A4%9C%E5%8D%8A%E9%90%98%E8%81%B2%E5%88%B0%E5%AE%A2%E8%88%B9%E3%80%82)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chocolate+Classical+Sans&pause=1000&width=435&lines=%E6%9C%88%E8%90%BD%E7%83%8F%E5%95%BC%E9%9C%9C%E6%BB%BF%E5%A4%A9%EF%BC%8C%E6%B1%9F%E6%A5%93%E6%BC%81%E7%81%AB%E5%B0%8D%E6%84%81%E7%9C%A0%E3%80%82+;%E5%A7%91%E8%98%87%E5%9F%8E%E5%A4%96%E5%AF%92%E5%B1%B1%E5%AF%BA%EF%BC%8C%E5%A4%9C%E5%8D%8A%E9%90%98%E8%81%B2%E5%88%B0%E5%AE%A2%E8%88%B9%E3%80%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chocolate+Classical+Sans&size=24&pause=1000&width=435&lines=%E6%9C%88%E8%90%BD%E7%83%8F%E5%95%BC%E9%9C%9C%E6%BB%BF%E5%A4%A9%EF%BC%8C%E6%B1%9F%E6%A5%93%E6%BC%81%E7%81%AB%E5%B0%8D%E6%84%81%E7%9C%A0%E3%80%82+;%E5%A7%91%E8%98%87%E5%9F%8E%E5%A4%96%E5%AF%92%E5%B1%B1%E5%AF%BA%EF%BC%8C%E5%A4%9C%E5%8D%8A%E9%90%98%E8%81%B2%E5%88%B0%E5%AE%A2%E8%88%B9%E3%80%82)](https://git.io/typing-svg)
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=EvenWave7127102&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
